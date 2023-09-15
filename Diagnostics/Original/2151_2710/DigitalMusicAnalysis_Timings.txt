@@ -1,0 +1,7 @@
+Name [ Milliseconds | Ticks ]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+System Frequency Rate (f/s): 10000000
+stft [ 1088.5608 | 10885608 ]
+timefreq [ 1117.1479 | 11171479 ]
+onsetdetection [ 1012.1742 | 10121742 ]
+Complete application [ 6320.3609 | 63203609 ]

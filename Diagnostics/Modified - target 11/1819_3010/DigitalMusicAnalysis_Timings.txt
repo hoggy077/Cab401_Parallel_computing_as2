@@ -1,0 +1,8 @@
+Name [ Milliseconds | Ticks ]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+System Frequency Rate (f/s): 10000000
+task completion [ 411.6839 | 4116839 ]
+stft [ 462.5 | 4625000 ]
+timefreq [ 490.0585 | 4900585 ]
+Onsetdetection [ 558.621 | 5586210 ]
+Application total [ 4881.5167 | 48815167 ]
